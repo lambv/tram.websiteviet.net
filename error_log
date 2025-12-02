@@ -1,0 +1,2 @@
+[18-Oct-2025 07:26:28 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-Nov-2025 04:09:59 UTC] PHP Warning:  Undefined array key 0 in /home/websitev1/tram.websiteviet.net/wp-includes/class-wp-query.php on line 3733

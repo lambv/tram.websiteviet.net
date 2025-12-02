@@ -1,0 +1,254 @@
+# Translation of Plugins - LoftLoader - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - LoftLoader - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-12 18:32:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - LoftLoader - Stable (latest release)\n"
+
+#: inc/configs/customize-background.php:63
+msgid "No Animation"
+msgstr "애니메이션 없음"
+
+#: inc/configs/customize-more.php:88
+msgid "If checked, all settings will be removed after deactivating this plugin."
+msgstr "선택하면 이 플러그인을 비활성화한 후 모든 설정이 제거됩니다."
+
+#: inc/configs/customize-more.php:87
+msgid "Remove Plugin Data after Deactivating Plugin"
+msgstr "플러그인 비활성화 후 플러그인 데이터 제거"
+
+#: inc/configs/customize-more.php:25
+msgid "Plugin Data"
+msgstr "플러그인 데이터"
+
+#: inc/configs/customize-more.php:61
+msgid " second(s)"
+msgstr " 초"
+
+#: inc/configs/customize-more.php:58
+msgid "Please enter any number greater than 0 to enable this feature."
+msgstr "이 기능을 활성화하려면 0보다 큰 숫자를 입력하십시오."
+
+#: inc/configs/customize-more.php:21
+msgid "Close Button"
+msgstr "닫기 버튼"
+
+#: inc/configs/customize-more.php:17 inc/configs/customize-more.php:57
+msgid "Maximum Load Time"
+msgstr "최대 로딩 시간"
+
+#: inc/class-loftloader-front.php:376
+msgid "loader image"
+msgstr "로더 이미지"
+
+#: inc/configs/customize-advanced.php:42
+msgid "Inline JavaScript"
+msgstr "내장 자바스크립트"
+
+#: inc/configs/customize-advanced.php:41
+msgid "External JavaScript"
+msgstr "외부 자바스크립트"
+
+#: inc/configs/customize-advanced.php:38
+msgid "How to Load LoftLoader's JavaScript"
+msgstr "로프트로더의 JavaScript를 로드하는 방법"
+
+#: inc/configs/customize-more.php:80
+msgid "Description for Close Button"
+msgstr "닫기 버튼 설명"
+
+#: inc/configs/customize-more.php:66
+msgid "Show Close Button after"
+msgstr "다음에 닫기 버튼 표시"
+
+#: inc/configs/customize-more.php:12
+msgid "More"
+msgstr "더"
+
+#: inc/class-loftloader-front.php:222
+msgid "Close"
+msgstr "닫기"
+
+#: inc/configs/customize-loader.php:54
+msgid "Beating"
+msgstr "고동"
+
+#: loftloader.php:27
+msgid "Access not allowed!"
+msgstr "액세스가 허용되지 않습니다!"
+
+#: inc/configs/customize-range.php:29
+msgid "Homepage only"
+msgstr "홈페이지만"
+
+#: inc/configs/customize-range.php:28
+msgid "Sitewide"
+msgstr "사이트 전체"
+
+#: inc/configs/customize-range.php:19
+msgid "Display on"
+msgstr "표시"
+
+#: inc/configs/customize-promo.php:17
+msgid "Upgrade to Pro"
+msgstr "프로로 업그레이드"
+
+#: inc/configs/customize-loader.php:79
+msgid "Image Width"
+msgstr "이미지 너비"
+
+#: inc/configs/customize-loader.php:53
+msgid "Custom Image Loading"
+msgstr "커스텀 이미지 로딩"
+
+#: inc/configs/customize-loader.php:52
+msgid "Drawing Frame"
+msgstr "드로잉 프레임"
+
+#: inc/configs/customize-loader.php:51
+msgid "Spinning Square"
+msgstr "회전 광장"
+
+#: inc/configs/customize-loader.php:50
+msgid "Wave"
+msgstr "파도"
+
+#: inc/configs/customize-loader.php:49
+msgid "Luminous Circles"
+msgstr "빛나는 원"
+
+#: inc/configs/customize-loader.php:48
+msgid "Spinning Sun"
+msgstr "회전하는 태양"
+
+#: inc/configs/customize-loader.php:46
+msgid "Some support custom image."
+msgstr "일부는 사용자 지정 이미지를 지원합니다."
+
+#: inc/configs/customize-loader.php:45
+msgid "Loader Animation"
+msgstr "로더 애니메이션"
+
+#: inc/configs/customize-loader.php:37
+msgid "Loader"
+msgstr "로더"
+
+#: inc/configs/customize-background.php:57
+msgid "Hover on preview area to see the result."
+msgstr "결과를 보려면 미리보기 영역을 마우스로 가리키십시오."
+
+#: inc/configs/customize-background.php:56
+msgid "Ending Animation"
+msgstr "엔딩 애니메이션"
+
+#: inc/configs/customize-background.php:43
+msgid "Opacity"
+msgstr "불투명"
+
+#: inc/configs/customize-background.php:37 inc/configs/customize-loader.php:60
+msgid "Pick Color"
+msgstr "색상 선택"
+
+#: inc/configs/customize-advanced.php:57
+msgid "Generate LoftLoader Shortcode"
+msgstr "로프트로더 쇼트코드 생성"
+
+#: inc/configs/customize-advanced.php:49
+msgid "Check to enable Any Page Extension"
+msgstr "모든 페이지 확장을 활성화하려면 선택하십시오."
+
+#: inc/configs/customize-advanced.php:31
+msgid "Advanced"
+msgstr "고급"
+
+#: inc/class-loftloader-customize.php:271
+msgid "More info"
+msgstr "더 많은 정보"
+
+#: inc/class-loftloader-customize.php:180 inc/configs/customize-advanced.php:24
+msgid "Generate"
+msgstr "생성"
+
+#: inc/class-loftloader-customize.php:121
+msgid "Back"
+msgstr "뒤로"
+
+#: inc/class-loftloader-customize.php:114
+msgid "Press return or enter to open this section"
+msgstr "이 섹션을 열려면 Return 또는 Enter 키를 누르세요."
+
+#: inc/class-loftloader-customize.php:97 inc/class-loftloader-customize.php:124
+msgid "Setting"
+msgstr "환경"
+
+#: inc/class-loftloader-customize.php:54 loftloader.php:87
+msgid "LoftLoader Lite"
+msgstr "로프트로더 라이트"
+
+#: inc/any-page/class-loftloader-any-page.php:24
+#: inc/any-page/gutenberg/plugin.js:42 inc/any-page/gutenberg/plugin.js:43
+msgid "LoftLoader Any Page Shortcode"
+msgstr "로프트로더 모든 페이지 단축 코드"
+
+#. Author of the plugin
+#: loftloader.php
+msgid "Loft.Ocean"
+msgstr "로프트.오션"
+
+#. Description of the plugin
+#: loftloader.php
+msgid "An easy to use plugin to add an animated preloader to your website with fully customisations."
+msgstr "사용하기 쉬운 플러그인으로 완벽한 사용자 정의를 통해 웹사이트에 애니메이션 프리로더를 추가할 수 있습니다."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: loftloader.php
+msgid "http://www.loftocean.com/"
+msgstr "http://www.loftocean.com/"
+
+#: inc/configs/customize-loader.php:69
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#. Plugin Name of the plugin
+#: loftloader.php
+msgid "LoftLoader"
+msgstr "로프트로더"
+
+#: loftloader.php:76
+msgid "Settings"
+msgstr "설정"
+
+#: loftloader.php:76
+msgid "View LoftLoader Settings"
+msgstr "로프트로더 설정 보기"
+
+#: inc/configs/customize-background.php:62
+msgid "Slide Up & Down"
+msgstr "위아래로 슬라이드"
+
+#: inc/configs/customize-background.php:61
+msgid "Slide Up"
+msgstr "슬라이드 업"
+
+#: inc/configs/customize-background.php:60
+msgid "Slide Left & Right"
+msgstr "좌우 슬라이드"
+
+#: inc/configs/customize-background.php:59
+msgid "Fade"
+msgstr "바래다"
+
+#: inc/configs/customize-background.php:31
+msgid "Background"
+msgstr "배경"
+
+#: inc/configs/customize-main.php:19 inc/configs/customize-main.php:26
+msgid "Enable LoftLoader"
+msgstr "로프트로더 활성화"
